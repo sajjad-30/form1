@@ -6,7 +6,7 @@
   <title>Simple Form</title>
 </head>
 <body>
-  <form action="index1.php" method="post">
+  <form action="index1.php" method="get">
     <label>First Name:</label>
     <input type="text" name="first_name"><br><br>
 
